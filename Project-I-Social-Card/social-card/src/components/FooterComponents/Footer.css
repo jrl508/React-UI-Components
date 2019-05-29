@@ -1,0 +1,17 @@
+.footer{
+    margin-left:3%;
+    display: flex;
+    padding: 1.5% 3%;
+}
+
+.icon{
+    margin-right: 7%;
+    color: gray;
+    letter-spacing: .9rem;
+    font-size:1em;
+
+}
+
+.invert{
+    transform: scaleX(-1);
+}

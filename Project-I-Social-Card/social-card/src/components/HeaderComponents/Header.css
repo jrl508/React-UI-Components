@@ -1,1 +1,18 @@
 /* All styles for your header Components live here */
+.header-container{
+    display: flex;
+}
+
+.soft{
+    color: lightgray;
+    font-size: 0.9rem;
+}
+
+.header-content{
+    width: 50%;
+}
+
+.thumbnail{
+    width: 4%;
+    height: 4%;
+}
